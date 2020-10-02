@@ -21,7 +21,7 @@
 
 body{
  margin: 1;
- padding:0;
+ padding:1;
  front-family:sans-serif;
  background:"34496e;
 }
@@ -30,6 +30,6 @@ body{
   padding:40px;
   position: absolute;
   top:100%;
-  left: 50%;
+  left: 100%;
 }
 
