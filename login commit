@@ -10,6 +10,9 @@
  
  <form class="box"action="index.html"method="post">
   <h1>Login</h1>
+   <h2>Login</h2>
+  <input type="text" name=""placeholder="username">
+  <input type="password" name=""placeholder="password">
   <input type="text" name=""placeholder="username">
   <input type="password" name=""placeholder="password">
   <input type="submit" name=""value="login">
@@ -31,5 +34,6 @@ body{
   position: absolute;
   top:50%;
   left: 50%;
+}
 }
 
